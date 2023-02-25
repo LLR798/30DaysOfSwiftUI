@@ -14,6 +14,14 @@
 
 
 
+
+https://user-images.githubusercontent.com/82819237/221384448-af574988-5bfa-4a81-97c3-1a991394d159.mp4
+
+
+
+
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
